@@ -1,0 +1,7 @@
+ssh escarpi5@10.42.0.1
+escarpi5!
+
+1 terminal: ./start_openocd.sh
+2 terminal: minicom -D /dev/ttyS0
+
+In VSCode: remote debug

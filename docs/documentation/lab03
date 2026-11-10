@@ -1,0 +1,20 @@
+## Lab 3
+
+LED Matrix Orientation on Car
+
+- Dip switches are on the right side in the direction of travel
+
+Dimming
+- lowest luminocity: value E0
+- highest is EF
+(c.f. Matrix.pdf on page 11)
+
+Display setup
+
+1000X111
+
+10000111 = 0x87 (0,5Hz)
+10001111 = 0x8F (0,5Hz)
+=> X is don't care
+
+
